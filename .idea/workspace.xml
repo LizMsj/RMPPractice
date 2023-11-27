@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b760b12a-84f6-46c0-9785-d7d342617ccb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RMPPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/z9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/steps/ApiSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/steps/ApiSteps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2YlVGx4yp1ejQuBXsIIUwkFTuIL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Z15Kt">
+    <configuration name="Z11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z11Kt" />
+      <module name="RMPPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z12Kt" />
+      <module name="RMPPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z13Kt" />
+      <module name="RMPPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z14Kt" />
+      <module name="RMPPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z15Kt" />
+      <module name="RMPPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Z15Kt" />
+        <item itemvalue="Kotlin.Z14Kt" />
+        <item itemvalue="Kotlin.Z13Kt" />
+        <item itemvalue="Kotlin.Z12Kt" />
+        <item itemvalue="Kotlin.Z11Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b760b12a-84f6-46c0-9785-d7d342617ccb" name="Changes" comment="" />
+      <created>1701100069497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701100069497</updated>
+    </task>
+    <servers />
+  </component>
+</project>
